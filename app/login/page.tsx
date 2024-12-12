@@ -26,7 +26,7 @@ export default function Login() {
                   </div>
                   <div className="flex flex-col gap-2">
                     <label className="text-sm font-semibold opacity-80">Şifre</label>
-                    <input type="text" placeholder="Şifre" className="w-[300px] md:w-[500px] lg:w-[500px] xl:w-[500px] h-10 rounded-md px-2 outline-none border border-gray-400 text-[16px] ml-1" />
+                    <input type="password" placeholder="Şifre" className="w-[300px] md:w-[500px] lg:w-[500px] xl:w-[500px] h-10 rounded-md px-2 outline-none border border-gray-400 text-[16px] ml-1" />
                   </div>
                 </form>
                 <div className="flex items-center justify-between mt-3">
