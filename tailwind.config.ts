@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "myprimary": "#142342",
+        "button": "#B0BFDB"
+      },
+      boxShadow: {
+        'top-only': '5px 3px 6px 3px rgba(0, 0, 0, 0.1)',
       },
     },
   },
